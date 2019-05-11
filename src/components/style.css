@@ -1,0 +1,40 @@
+.registerDiv{
+    height:200px;
+    width:30%; 
+    float:left;
+    text-align: center;
+    margin-top:100px;
+    margin-left:100px;
+}
+
+.loginDiv{
+    height:200px;
+    width:20%; 
+    float:right;
+    margin-top:100px;
+    margin-right:200px;
+
+}
+
+.addlistdiv{
+    height:100px;
+    width:50%;
+    margin:auto;
+    text-align: center;
+}
+
+.inputBox{
+    width:94.5%;
+    border-radius:3px;
+    margin:auto;
+    border:1px solid gray;
+}
+
+.todoactivitytestcontainer{
+    height:20px; width: 280px; background-color: white; margin:auto; 
+    position:relative; top:-30px; color:salmon;
+}
+
+.showlistdiv{
+    width:50%; height:500px;  margin:auto; text-align: center;
+}
